@@ -32,6 +32,8 @@ Start the Streamlit app by running:
 ```bash
 streamlit run main.py
 ```
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 ### 🎯 Usage  
 1. Enter the YouTube video URL.  
