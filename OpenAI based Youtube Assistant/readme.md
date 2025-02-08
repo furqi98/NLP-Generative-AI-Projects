@@ -32,8 +32,7 @@ Start the Streamlit app by running:
 ```bash
 streamlit run main.py
 ```
-[![Watch the Demo]![YouTube Assistant](Youtube%20assistant.png)
-](https://youtu.be/_x-Bpli6mNs)
+[![YouTube Assistant](Youtube%20assistant.png)](https://youtu.be/_x-Bpli6mNs)
 
 
 
