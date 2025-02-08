@@ -8,6 +8,31 @@ Check out the demo video to see how the PDF Q&A Assistant works:
 
 [![Watch the Demo](https://img.youtube.com/vi/YksOKFDVaT8/0.jpg)](https://youtu.be/YksOKFDVaT8)
 
+### 📥 Installation & Setup  
+
+#### Prerequisites  
+1. Create a virtual environment:  
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On MacOS/Linux
+   env\Scripts\activate  # On Windows
+   ```  
+2. Create a `.env` file and add your OpenAI API key:  
+   ```
+   OPENAI_API_KEY=your_api_key_here
+   ```  
+3. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```  
+
+#### Running the Application  
+Start the Streamlit app by running:  
+```bash
+streamlit run RAG.py
+```
+
+
 ### 🚀 Features  
 - **PDF Upload**: Easily upload PDF documents.  
 - **Context-Aware Q&A**: Ask any question, and get precise answers based on the PDF content.  
