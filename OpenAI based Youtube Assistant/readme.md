@@ -32,7 +32,8 @@ Start the Streamlit app by running:
 ```bash
 streamlit run main.py
 ```
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://img.youtube.com/vi/_x-Bpli6mNs/0.jpg)](https://youtu.be/_x-Bpli6mNs)
+
 
 
 ### 🎯 Usage  
