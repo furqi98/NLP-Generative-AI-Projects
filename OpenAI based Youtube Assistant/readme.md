@@ -32,15 +32,17 @@ Start the Streamlit app by running:
 ```bash
 streamlit run main.py
 ```
-[![YouTube Assistant](Youtube%20assistant.png)](https://youtu.be/_x-Bpli6mNs)
-
-
 
 ### 🎯 Usage  
 1. Enter the YouTube video URL.  
 2. Ask a question related to the video content.  
 3. Click on the **Submit** button.  
 4. Get an AI-generated answer based on the video transcript.  
+
+### 🎥 Watch the Demo  
+Click the image below to see a demo of how the YouTube Assistant works!  
+
+[![YouTube Assistant](Youtube%20assistant.png)](https://youtu.be/_x-Bpli6mNs)
 
 ### 🛠️ Technologies Used  
 - `python-dotenv` – For environment variable management  
