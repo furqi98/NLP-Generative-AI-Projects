@@ -16,22 +16,24 @@ This project involves developing a **web crawler** to extract textual data from 
 - **Requests** – For making HTTP requests  
 - **CSV Handling** – To store structured data  
 
-## 📥 Installation & Setup  
+## **📥 Installation & Setup**  
 
-1️⃣ Install Jupyter Notebook (if not installed)
+### **🔹Run Locally (Jupyter Notebook)**  
+1️⃣ **Install Jupyter Notebook (if not installed)**  
+   ```bash
+   pip install notebook
+   ```  
+2️⃣ **Install required dependencies**  
+   ```bash
+   pip install requests beautifulsoup4 html5lib
+   ```  
+3️⃣ **Open Jupyter Notebook**  
+   ```bash
+   jupyter notebook
+   ```  
+4️⃣ **Run the `Web Data Crawler.ipynb` notebook** in order.  
 
-bash
-Copy
-Edit
-pip install notebook
-2️⃣ Launch Jupyter Notebook
-
-bash
-Copy
-Edit
-jupyter notebook
-3️⃣ Open the .ipynb file and run the cells in sequence.
-```
+---
 
 
 ## 📊 Data Collected  
