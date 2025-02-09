@@ -8,7 +8,7 @@ This project involves developing a **web crawler** to extract textual data from 
 ✅ **Web Crawling**: Extract news headlines, descriptions, publication dates, and images.  
 ✅ **Text Cleaning**: Remove HTML tags, punctuation, and extra spaces for clean text.  
 ✅ **Data Storage**: Store extracted content in a **CSV file** for further analysis.  
-✅ **Colab Notebook**: A step-by-step **Google Colab Notebook** demonstrating the entire crawling process.  
+✅ **Notebook**: A step-by-step **Notebook** demonstrating the entire crawling process.  
 
 ## 🛠️ Technologies Used  
 - **Python**  
