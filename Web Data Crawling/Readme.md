@@ -18,20 +18,19 @@ This project involves developing a **web crawler** to extract textual data from 
 
 ## 📥 Installation & Setup  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/Web-Data-Crawling.git
-cd Web-Data-Crawling
-```
+1️⃣ Install Jupyter Notebook (if not installed)
 
-### 2️⃣ Install Dependencies  
-```bash
-pip install -r requirements.txt
-```
+bash
+Copy
+Edit
+pip install notebook
+2️⃣ Launch Jupyter Notebook
 
-### 3️⃣ Run the Crawler  
-```bash
-python "Web Data Crawler.ipynb"
+bash
+Copy
+Edit
+jupyter notebook
+3️⃣ Open the .ipynb file and run the cells in sequence.
 ```
 
 
