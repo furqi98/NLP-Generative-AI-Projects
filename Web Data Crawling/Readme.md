@@ -33,8 +33,6 @@ This project involves developing a **web crawler** to extract textual data from 
    ```  
 4️⃣ **Run the `Web Data Crawler.ipynb` notebook** in order.  
 
----
-
 
 ## 📊 Data Collected  
 ✅ **2GB+ of text data** from multiple news articles  
